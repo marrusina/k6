@@ -1,0 +1,14 @@
+{
+
+  "arrival": [
+
+    { "arrive": "London" },
+
+    { "arrive": "Denver" },
+
+    { "arrive": "Paris" },
+
+    { "arrive": "Sydney" }
+  ]
+
+}

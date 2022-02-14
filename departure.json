@@ -1,0 +1,14 @@
+{
+
+  "departure": [
+
+    { "depart": "Sydney" },
+
+    { "depart": "Denver" },
+
+    { "depart": "Paris" },
+
+    { "depart": "London" }
+  ]
+
+}
