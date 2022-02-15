@@ -23,19 +23,12 @@ console.log('arrive',JSON.stringify(arrive));
 export const options = {
 
   scenarios: {
-
     example_scenario: {
-
      executor: 'constant-vus',
-
            vus: 10,
-
            duration: '45m',
-
     },
-
   },
-
 };
 
 export default function(){
